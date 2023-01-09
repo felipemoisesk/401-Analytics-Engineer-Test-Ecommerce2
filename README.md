@@ -2,9 +2,9 @@
      <a> 401-Analytics-Engineer-Test-Ecommerce2 </a>
 </h1>
 
-<h4 align="center">
-	🚧 ABR/22 🚧
-</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Status%20do%20Projeto-Concluído-green"/>
+</p>
 
 ## 💻 Sobre o teste
 
